@@ -15,7 +15,7 @@ JavaScript • C • Python • GDScript
 - Java *For Minecraft Modding*
 
 ## 📌 Featured Projects
-### [💬P2P E2E Encrypted Chatting App](https://github.com/fihabeeb/Final-Project-Guarded-Chat)
+### [💬 P2P E2E Encrypted Chatting App](https://github.com/fihabeeb/Final-Project-Guarded-Chat)
 Node.js • JavaScript • PostgreSQL
 
 ✔ End-to-End encrypted, Peer-to-Peer connected chatting
@@ -24,7 +24,7 @@ Node.js • JavaScript • PostgreSQL
 
 ✔ Offline Message Delivery
 
-### ⏱️ CPU Scheduler
+### [⏱️ CPU Scheduler](https://github.com/fihabeeb/ASP-Coursework)
 Zig • Assembly • C
 
 ✔ Queued tasks
@@ -33,7 +33,7 @@ Zig • Assembly • C
 
 ✔ Testing
 
-### 🖥️ Operating System
+### [🖥️ Operating System](https://github.com/fihabeeb/operating-systems)
 Assembly • C
 
 ✔ Command Line Custom Functions
@@ -43,7 +43,7 @@ Assembly • C
 ✔ Makefile
 
 
-### 🛒 Food Retail App
+### [🛒 Food Retail App](https://github.com/fihabeeb/DESD-BRFN)
 Django • PostgreSQL • Docker
 
 ✔ Authentication
