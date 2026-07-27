@@ -55,7 +55,7 @@ Django • PostgreSQL • Docker
 
 
 <a href="https://github.com/fihabeeb/fihabeeb">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=portfolio&theme=tokyonight" />
+  <image src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=portfolio&theme=tokyonight" />
 </a>
 
 <!--
