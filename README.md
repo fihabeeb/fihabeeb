@@ -62,11 +62,12 @@
 ✔ Admin Dashboard
 
 
+<!--
+
 <a href="https://github.com/YOUR_USERNAME/project1">
   <image src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=tokyonight" />
 </a>
 
-<!--
 ##📈 GitHub Stats
 
 
