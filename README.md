@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-stack+Developer;React+%2B+TypeScript;Building+useful+things" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi there, My name is Fadil</h1>
 <p align="center">
   Computer Science Graduate
