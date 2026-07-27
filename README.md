@@ -8,7 +8,7 @@
 </p>
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,docker,postgres,git,github,c,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 JavaScript • C • Python • GDScript
 
 ## 🚀 Tech Stack
