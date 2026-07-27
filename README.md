@@ -18,11 +18,8 @@
 ## 📌 Featured Projects
 ### [💬 P2P E2E Encrypted Chatting App](https://github.com/fihabeeb/Final-Project-Guarded-Chat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![PostgreSQl](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgre)
-
-
-Node.js • JavaScript • PostgreSQL
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ✔ End-to-End encrypted, Peer-to-Peer connected chatting
 
@@ -31,7 +28,9 @@ Node.js • JavaScript • PostgreSQL
 ✔ Offline Message Delivery
 
 ### [⏱️ CPU Scheduler](https://github.com/fihabeeb/ASP-Coursework)
-Zig • Assembly • C
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ✔ Queued tasks
 
@@ -40,7 +39,8 @@ Zig • Assembly • C
 ✔ Testing
 
 ### [🖥️ Operating System](https://github.com/fihabeeb/operating-systems)
-Assembly • C
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ✔ Command Line Custom Functions
 
@@ -51,6 +51,10 @@ Assembly • C
 
 ### [🛒 Food Retail App](https://github.com/fihabeeb/DESD-BRFN)
 Django • PostgreSQL • Docker
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ✔ Authentication
 
