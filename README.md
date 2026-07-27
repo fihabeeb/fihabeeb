@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Grad;First+%2B+Class;Building+useful+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Grad;First+Class;Building+useful+things" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi there, My name is Fadil</h1>
@@ -7,13 +7,9 @@
   Lorem
 </p>
 
-## Skills
+## 🚀 Tech Skills
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,py,postgres,html,css,c,zig,vscode,docker,git,sqlite,godot,flask,gamemakerstudio,arduino)](https://skillicons.dev)
 
-## 🚀 Tech Stack
-- Node.js
-- Django
-- PostgreSQL
 
 ## 🌱 Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=cpp,java)](https://skillicons.dev)
@@ -56,6 +52,11 @@ Django • PostgreSQL • Docker
 ✔ Stripe Payments
 
 ✔ Admin Dashboard
+
+
+<a href="https://github.com/YOUR_USERNAME/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=portfolio&theme=tokyonight" />
+</a>
 
 <!--
 ##📈 GitHub Stats
