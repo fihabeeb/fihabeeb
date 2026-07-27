@@ -19,7 +19,9 @@ JavaScript • C • Python • GDScript
 Node.js • JavaScript • PostgreSQL
 
 ✔ End-to-End encrypted, Peer-to-Peer connected chatting
+
 ✔ Message persistence
+
 ✔ Offline Message Delivery
 
 ⏱️ CPU Scheduler
@@ -50,8 +52,11 @@ Django • PostgreSQL • Docker
 
 ✔ Admin Dashboard
 
+
 ##📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fihabeeb&show_icons=true&theme=tokyonight)
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=fihabeeb&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fihabeeb&layout=compact&theme=tokyonight)
 <!--
