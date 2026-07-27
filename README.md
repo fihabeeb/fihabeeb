@@ -1,3 +1,8 @@
+<h1 align="center">Hi there, My name is Fadil</h1>
+<p align="center">
+  Computer Science Graduate
+</p>
+
 ## Hi there, My name is Fadil 👋
 
 Computer Science Graduate
