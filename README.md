@@ -26,14 +26,18 @@ Node.js • JavaScript • PostgreSQL
 Zig • Assembly • C
 
 ✔ Queued tasks
+
 ✔ Object Oriented Esque Design with Structs
+
 ✔ Testing
 
 🖥️ Operating System
 Assembly • C
 
 ✔ Command Line Custom Functions
+
 ✔ Supports user input and displays outputs
+
 ✔ Makefile
 
 
@@ -41,7 +45,9 @@ Assembly • C
 Django • PostgreSQL • Docker
 
 ✔ Authentication
+
 ✔ Stripe Payments
+
 ✔ Admin Dashboard
 
 ##📈 GitHub Stats
