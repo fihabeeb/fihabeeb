@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there, My name is Fadil</h1>
-<break></break>
+<br></br>
 
 
 ## 🚀 Tech Skills
