@@ -54,7 +54,7 @@ Django • PostgreSQL • Docker
 ✔ Admin Dashboard
 
 
-<a href="https://github.com/YOUR_USERNAME/portfolio">
+<a href="https://github.com/fihabeeb/fihabeeb">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=portfolio&theme=tokyonight" />
 </a>
 
