@@ -15,7 +15,7 @@ JavaScript • C • Python • GDScript
 - Java *For Minecraft Modding*
 
 ## 📌 Featured Projects
-### 💬 P2P E2E Encrypted Chatting App
+### 💬[P2P E2E Encrypted Chatting App](https://github.com/YOUR_USERNAME/portfolio)
 Node.js • JavaScript • PostgreSQL
 
 ✔ End-to-End encrypted, Peer-to-Peer connected chatting
