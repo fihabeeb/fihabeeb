@@ -7,9 +7,8 @@
   Lorem
 </p>
 
-## Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-JavaScript • C • Python • GDScript
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,py,postgres,html,css,c,zig,vscode,docker,git,sqlite,godot,flask,gamemakerstudio,arduino)](https://skillicons.dev)
 
 ## 🚀 Tech Stack
 - Node.js
@@ -17,8 +16,8 @@ JavaScript • C • Python • GDScript
 - PostgreSQL
 
 ## 🌱 Currently Learning
-- C++
-- Java *For Minecraft Modding*
+[![My Skills](https://skillicons.dev/icons?i=cpp,java)](https://skillicons.dev)
+
 
 ## 📌 Featured Projects
 ### [💬 P2P E2E Encrypted Chatting App](https://github.com/fihabeeb/Final-Project-Guarded-Chat)
